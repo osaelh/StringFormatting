@@ -1,0 +1,14 @@
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\bin\Debug\net6.0\StringFormatting.exe
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\bin\Debug\net6.0\StringFormatting.deps.json
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\bin\Debug\net6.0\StringFormatting.runtimeconfig.json
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\bin\Debug\net6.0\StringFormatting.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\bin\Debug\net6.0\StringFormatting.pdb
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfoInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfo.cs
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.csproj.CoreCompileInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\refint\StringFormatting.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.pdb
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\StringFormatting.genruntimeconfig.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\StringFormatting\obj\Debug\net6.0\ref\StringFormatting.dll
